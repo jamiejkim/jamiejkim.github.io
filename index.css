@@ -8419,3 +8419,28 @@
         h2 {
             font-family: Helvetica, "Source Sans Pro", Arial, sans-serif
         }
+
+		
+
+
+		.nav ul .Github {
+			background: #a3d39c;
+		}
+		.nav ul .Instagram {
+			background: #7accc8;
+		}
+		.nav ul .LinkedIn {
+			background: #4aaaa5;
+		}
+		.nav ul .Email {
+			background: #35404f;
+		}
+		.nav ul .Resume {
+			background: #008080;
+		}
+		.nav ul .Portfolio {
+			background: #2bc988;
+		}
+		.nav ul li:hover i:before {
+			content:"";
+		}
