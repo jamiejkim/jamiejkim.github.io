@@ -8423,24 +8423,24 @@
 		
 
 
-		.nav ul .Github {
+		.icons ul .Github {
 			background: #a3d39c;
 		}
-		.nav ul .Instagram {
+		.icons ul .Instagram {
 			background: #7accc8;
 		}
-		.nav ul .LinkedIn {
+		.icons ul .LinkedIn {
 			background: #4aaaa5;
 		}
-		.nav ul .Email {
+		.icons ul .Email {
 			background: #35404f;
 		}
-		.nav ul .Resume {
+		.icons ul .Resume {
 			background: #008080;
 		}
-		.nav ul .Portfolio {
+		.icons ul .Portfolio {
 			background: #2bc988;
 		}
-		.nav ul li:hover i:before {
+		.icons ul li:hover i:before {
 			content:"";
 		}
