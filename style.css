@@ -1,4 +1,4 @@
-span, {
+span {
     background-color: #e74c3c;
     animation: bg-color 10s infinite;
     font-family: "homemade apple"; font-size: 40.5px; src: url('../fonts/homemade-apple-v18-latin-regular.eot');
