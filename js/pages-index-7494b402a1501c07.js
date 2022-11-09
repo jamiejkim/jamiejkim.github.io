@@ -470,7 +470,7 @@
 										startDate: "06/2018",
 										endDate: "08/2018",
 										location: "(Songdo, Incheon, South Korea)",
-										occupation: "Global I.T.",
+										occupation: "Global I.T. Intern",
 										business: "Samsung BioLogics",
 										description: "full-stack development, computerized systems validation, innovations, UI/UX."
 									})]
