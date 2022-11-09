@@ -1,8 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Homemade+Apple);
 span, {
     background-color: #e74c3c;
     animation: bg-color 10s infinite;
-    font-family: "homemade apple"; font-size: 40.5px
+    font-family: "homemade apple"; font-size: 40.5px; src: url('../fonts/homemade-apple-v18-latin-regular.eot');
   }
   @keyframes bg-color {
     0% { background-color: #e74c3c; }
